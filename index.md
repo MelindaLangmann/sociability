@@ -8,4 +8,4 @@ Wie steuere ich mich selbst?
 Wie trete ich in Kontakt?
 
 
-[Innere Haltung](Innere Haltung)
+[Innere Haltung](Innere_Haltung)
